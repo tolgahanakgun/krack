@@ -8,9 +8,9 @@ French article on [hackndo](http://beta.hackndo.com/krack/)
 
 ## Environment
 
-WPA2 with CCMP
-Python 2.7
-Scapy 2.4
+* WPA2 with CCMP
+* Python 2.7
+* Scapy 2.4
 
 ## TODO
 
