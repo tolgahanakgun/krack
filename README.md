@@ -17,3 +17,5 @@ French article on [hackndo](http://beta.hackndo.com/krack/)
 - [X] Use CSA (Channel Switch Announcement) to make client switch channel after deauth
 - [ ] Save data sent by client
 - [ ] Break cryptography with known plain text when counter is reinitialized
+
+##### This repository was cloned from github.com/Hackndo/krack-poc
